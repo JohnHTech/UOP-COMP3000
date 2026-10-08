@@ -1,4 +1,4 @@
-#Task List
+# Task List
 
 This is a generic task list or agenda of points of action I will have to achieve.
 This is to keep track with the YouTube DevLog Diaries. I will of course use a project 
