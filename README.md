@@ -4,7 +4,7 @@ This is project repository for my University of Plymouth COMP3000 Module.
 
 This is a year long project, under supervision, to create a project of substantial nature, and be prepared to defend it and know my stuff with a final VIVA session in May of 2027.
 
-##Title - *Yet to be Determined*
+## Title - *Yet to be Determined*
 
 ## Description of Game
 This is a "Penetration Test" simulator with the ambitions to embody ethical hacking values and practices, yet give the player a chance to experience what it would be like on a 
