@@ -29,5 +29,7 @@ contracted visitation to a premesis that has requested your service to investiga
 -- Implemented first entry with current tasks
 - Updated this page to have links to the 2 new pages
 
+3. October 12th, 2026
+- Updated Task List with current action points and status of tasks.
 ---
 
