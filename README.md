@@ -4,7 +4,7 @@ This is project repository for my University of Plymouth COMP3000 Module.
 
 This is a year long project, under supervision, to create a project of substantial nature, and be prepared to defend it and know my stuff with a final VIVA session in May of 2027.
 
-## Title - *Yet to be Determined*
+## Title - *PENTEST*
 
 ## Description of Game
 This is a "Penetration Test" simulator with the ambitions to embody ethical hacking values and practices, yet give the player a chance to experience what it would be like on a 
@@ -31,5 +31,10 @@ contracted visitation to a premesis that has requested your service to investiga
 
 3. October 12th, 2026
 - Updated Task List with current action points and status of tasks.
+
+4. October 13th, 2026
+- Updated Task List for this days issues
+- Issues have come to light with University Admin, causing confusion.
+- If I am fit, I need to see if I can address this on Thursday 15th, 2026, when I'm in COMP3016 Session.
 ---
 
