@@ -43,3 +43,18 @@ Tasks that have been completed will be struck out, ~~like this, for example~~, a
 - ISSUE: A University Admin has seen fit to change my supervisor without warning or agreement, this has led to some complaints. I have contacted Rory Hopcraft looking to log a formal complaint in addition. Don't understand what's gone on and very little context has been provided for what's happening. Until this is sorted out, I can only proceed on certain matters due to the confusion caused.
 - ISSUE: I have come down with a cold, or I am certainly unwell. I hope I can be well enough to be in the lab on Thursday. However, I am running fever and have concerns for not passing on whatever this is.
 - Action Point Completed : Project has now been set up with a management tool, Trello has become the platform of choice. This is due to most of the others being AI influenced.
+
+## Update - October 28th, 2026
+- I have now completed approx 1hr of using the Hitman : World of Assasination game as per JJ's suggestion. Unlisted Video at https://youtu.be/xi80BJuUgiQ
+- Issue Update : I have just about recovered from a severe chest infection, although I am on Anti Biotics to help, affecting me a little bit.
+- Issue Update : No Update regard mediation and issues relating to Supervisory Changes. Have met with Amir (New Supervisor)
+- Information Record : Was contacted by VC asking for an Eval on Amir, have refused to comment and expressed my grievances of Supervisory Changes.
+- Priority work is on COMP3019 & 3016 due to impending deadlines.
+- Action Point : Address Technical Difficulties with Synching Visual Studio 2022 with my GitHub Repos.
+- Action Point : Review and Update Trello Board as needed
+- Action Point : Work on GDD
+- Action Point : Basic Unity Tutorials & Integration into VS2022
+- Action Point : Check for any impending deadlines, address anything shortcoming and get resolved.
+- Action Point : Scan Conceptual Images not already scanned.
+- Threat Resolved : House is no longer on Generator Based Power, National Grid appear to be completing their upgrade work. 
+
