@@ -13,7 +13,8 @@ contracted visitation to a premesis that has requested your service to investiga
 
 
 - [Tasklist](https://github.com/JohnHTech/UOP-COMP3000/blob/main/TaskList.md)
-- [YouTube DevLog Diaries](https://github.com/JohnHTech/UOP-COMP3000/blob/main/YouTube.md)
+- [YouTube Media](https://github.com/JohnHTech/UOP-COMP3000/blob/main/YouTube.md)
+- [Development Log Diaries](https://github.com/JohnHTech/UOP-COMP3000/blob/main/devlogindex.md)
 
 ---
 
@@ -36,5 +37,15 @@ contracted visitation to a premesis that has requested your service to investiga
 - Updated Task List for this days issues
 - Issues have come to light with University Admin, causing confusion.
 - If I am fit, I need to see if I can address this on Thursday 15th, 2026, when I'm in COMP3016 Session.
+
+5. November 10th, 2026
+- Added seperate index for proper devlog diaries, YouTube Media is media that is relevant to the project, but not a DevLog Entry.
+- 17:38 GMT - Appear to have a viable resolve for GitHub synching issues in Visual Studio 2022, by using GitHub for Desktop Windows Edition.
+-- Cloning the Repo to my computer system seems to have been very simplified. Will need to check I can push an update.
+- Have gotten over most of chest infection, trying to get back on track.
+- Supervisory issue seems resolved, but will still be following relevant channels to pursue some issues not addressed. 
+- Anticipating further update to the Repo on Thursday November 12th, following Sprint Review - This will include Trello & Tasklist.
+- Planning to undertake basic unity integration in VS2022 tomorrow, ensure a basic "hello world" program can run as sanity check.
+
 ---
 
