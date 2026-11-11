@@ -58,3 +58,22 @@ Tasks that have been completed will be struck out, ~~like this, for example~~, a
 - Action Point : Scan Conceptual Images not already scanned.
 - Threat Resolved : House is no longer on Generator Based Power, National Grid appear to be completing their upgrade work. 
 
+## Update - November 11th, 2026
+
+- Follow up on Action Point : Address Technical Difficulties with Synching Visual Studio 2022 with my GitHub Repos.
+
+***Have now installed Github for Desktop (Windows), which seems to work as a workaround.***
+
+- Follow up on Action Point : Scan Conceptual Images not already scanned.
+
+***Completed, just need insertion to the GDD***
+
+- Follow up on Action Point : Basic Unity Tutorials & Integration into VS2022
+
+***Issue detected : My laptop computer is not suitable specc'd for Unity, which requires a GPU with 8gb RAM. My laptop has 500mb, having been specc'd more for office style work.***
+
+So, to handle the issue of my laptop not being fit for Unity dev, I have no choice but to restrict development of the project on my home based desktop system, or the University Lab Computers in SMB102.
+I may be able to look at upgrading my laptop with the next maintenance payment (Early January) but I have to consider viability along with my other expenses. 
+
+For now, I'll just have to use my laptop to shuttle code back and forth, and transfer code on to the Uni Lab computers with a USB Drive, making sure to save any work, and making sure to bring the drive back with me.
+

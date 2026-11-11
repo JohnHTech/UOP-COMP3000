@@ -47,5 +47,9 @@ contracted visitation to a premesis that has requested your service to investiga
 - Anticipating further update to the Repo on Thursday November 12th, following Sprint Review - This will include Trello & Tasklist.
 - Planning to undertake basic unity integration in VS2022 tomorrow, ensure a basic "hello world" program can run as sanity check.
 
+6. November 11th, 2026
+- Updated Task List.
+- Issue Detected: Laptop is not high enough spec to run Unity Engine. Workaround Identified.
+- Identified Workaround for VS2022 not synching with Github Repos. Using Github for Desktop (Windows)
 ---
 
