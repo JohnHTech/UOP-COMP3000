@@ -51,5 +51,13 @@ contracted visitation to a premesis that has requested your service to investiga
 - Updated Task List.
 - Issue Detected: Laptop is not high enough spec to run Unity Engine. Workaround Identified.
 - Identified Workaround for VS2022 not synching with Github Repos. Using Github for Desktop (Windows)
+
+7. November 23rd, 2026
+- I have been subject to Ill Health. 
+- Level 01 design has started but is not complete, requires 'traps' to be added (CCTV Field of Vision, etc)
+- Reviewed Lockpicking Tools with cheap kit on Amazon. Video on YouTube Media Page.
+- Working with University services to enable remote access to SMB102 Lab Computers.
+- External Disruptions to Studies are becoming impactful. Father's health may be diminishing again. Review: Continue or Walk, sort problems, start afresh?
+
 ---
 
